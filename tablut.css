@@ -1,0 +1,56 @@
+.tablutrow {
+	width:470px;
+	height: 52px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.tablutsquare {
+	border-left: 2px solid black;
+	border-top: 2px solid black;
+	width: 50px;
+	height: 50px;
+	float:left;
+	background-color: #d2b48c; 
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#tablutboard {
+	border: 10px #333333 solid;
+	margin-top: 12px;
+	height: 470px;
+	width: 470px;
+}
+
+#tablutboard img {
+	position: absolute;
+}
+
+#tablutboard #row8 {
+	border-bottom: 2px solid black;
+}
+
+#tablutboard #r0c8, #tablutboard #r1c8, #tablutboard #r2c8, #tablutboard #r3c8, #tablutboard #r4c8, #tablutboard #r6c8, #tablutboard #r5c8, #tablutboard #r7c8, #tablutboard #r8c8 {
+	border-right: 2px solid black;
+}
+
+#tablutboard #r0c3, #tablutboard #r0c4, #tablutboard #r0c5, #tablutboard #r1c4, #tablutboard #r3c0, #tablutboard #r4c0, #tablutboard #r4c1, #tablutboard #r5c0, #tablutboard #r3c8, #tablutboard #r4c8, #tablutboard #r5c8, #tablutboard #r4c7, #tablutboard #r8c3, #tablutboard #r8c4, #tablutboard #r8c5, #tablutboard #r7c4 {
+	background-color: #daa520;
+}
+
+#tablutboard #r4c4 {
+	background-color: #cd853f;
+}
+
+#tablutstatus {
+    background-color: #333333;
+    color: white;
+    padding-left: 6pt;
+}
+
+@media print {
+	.tablutrow, .tablutsquare, #tablutboard, #tablutstatus {
+		display: none !important;
+		height: 0;
+	}

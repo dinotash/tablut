@@ -10,11 +10,11 @@ The Muscovite forces begin in their base camps, the darker squares at the board'
 
 All pieces can move any number of squares in a straight line vertically or horizontally, like rooks in chess. Pieces cannot jump over other pieces, the castle or the base camps. Each player can move one piece per turn and Sweden starts.
 
-	A piece is captured when it is sandwiched by two enemy forces along a row or column. Alternatively, a piece may be squashed between an enemy and restricted area. Pawns are only captured when it is the enemy's move that completes the trap: pieces are able to move safely between two stationary enemies. Once a pawn is captured, it is removed from the game. The king is harder to get hold of, in that he cannot be caught between an enemy and a restricted tile.
+A piece is captured when it is sandwiched by two enemy forces along a row or column. Alternatively, a piece may be squashed between an enemy and restricted area. Pawns are only captured when it is the enemy's move that completes the trap: pieces are able to move safely between two stationary enemies. Once a pawn is captured, it is removed from the game. The king is harder to get hold of, in that he cannot be caught between an enemy and a restricted tile.
 	
-	A Swedish pawn standing besides the king can be seized if both pieces become trapped. Suppose the royal pair are next to a Muscovite or restricted area, and another Muscovite pawn moves besides them in the same row or column. In that case, the Swedish pawn would be captured but the king would not be.
+A Swedish pawn standing besides the king can be seized if both pieces become trapped. Suppose the royal pair are next to a Muscovite or restricted area, and another Muscovite pawn moves besides them in the same row or column. In that case, the Swedish pawn would be captured but the king would not be.
 	
-	When the king has one unimpeded route to the edge of the board, the Swedish player warns his opponent by saying "raicki". When the king has two free ways, he says "tuicku", which is the equivalent of checkmate. Because computers are so ruddy marvellous, this will happen automatically. It's probably just as well because I doubt either of us knows how to pronounce the Saami words correctly.
+When the king has one unimpeded route to the edge of the board, the Swedish player warns his opponent by saying "raicki". When the king has two free ways, he says "tuicku", which is the equivalent of checkmate. Because computers are so ruddy marvellous, this will happen automatically. It's probably just as well because I doubt either of us knows how to pronounce the Saami words correctly.
 
 ----
 

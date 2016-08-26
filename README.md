@@ -1,5 +1,7 @@
 # Tablut, a Viking board game
 
+Play: http://dinotash.com/tablut/
+
 Tablut is a game for two players, Swedish (white) and Muscovy (black). Sweden wants their king to escape from the middle. The Muscovites want to stop him.
 
 ----
